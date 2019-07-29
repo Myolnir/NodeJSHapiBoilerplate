@@ -1,0 +1,1 @@
+exports.ROUTES_PREFIX = '/v1/myolnir';
