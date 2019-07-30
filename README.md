@@ -1,2 +1,2 @@
-# nodeHapiMongoSkeleton
-Sleketon for a NodeJS with Hapi and MongoDB
+# NodeJSHapiBoilerplate
+Boilerplate for a NodeJS with Hapi
